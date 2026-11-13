@@ -13,7 +13,7 @@
 
 ## Скачать (Android)
 
-1. Скачайте APK: **[INGITO-1.0.0.apk](https://github.com/Danil7G/INGITO/releases/latest/download/INGITO-1.0.0.apk)**
+1. Скачайте APK: **[Ingito.apk](https://github.com/Danil7G/INGITO/releases/latest/download/Ingito.apk)**
 2. Откройте файл — Android спросит разрешение на установку
 3. Готово
 
